@@ -1,11 +1,11 @@
 # AsusNatView
 
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/AsusNatView?label=PowerShell%20Gallery&color=0078D6&cacheSeconds=3600)](https://www.powershellgallery.com/packages/AsusNatView/1.0.0)
-[![GitHub Release](https://img.shields.io/github/v/release/2civics/AsusNatView?label=GitHub%20Release&color=2EA44F&cacheSeconds=3600)](https://github.com/2civics/Asus-Nat-View/releases/tag/v.1.0.0)
+[![GitHub Release](https://img.shields.io/github/v/release/2civics/Asus-Nat-View?label=GitHub%20Release&color=2EA44F&cacheSeconds=3600)](https://github.com/2civics/Asus-Nat-View/releases/tag/v.1.0.0)
 [![PowerShell 5.1 | 7.x](https://img.shields.io/badge/PowerShell-5.1%20%7C%207.x-5391FE)](https://www.powershellgallery.com/packages/AsusNatView/1.0.0)
-[![Platform Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6)](https://github.com/2civics/AsusNatView)
+[![Platform Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6)](https://github.com/2civics/Asus-Nat-View)
 
-[PowerShell Gallery](https://www.powershellgallery.com/packages/AsusNatView/1.0.0) | [GitHub Releases](https://github.com/2civics/AsusNatView/releases) | [Report an Issue](https://github.com/2civics/AsusNatView/issues)
+[PowerShell Gallery](https://www.powershellgallery.com/packages/AsusNatView/1.0.0) | [GitHub Releases](https://github.com/2civics/Asus-Nat-View/releases) | [Report an Issue](https://github.com/2civics/Asus-Nat-View/issues)
 
 A lightweight, read-only Windows WPF GUI for inspecting live `iptables` NAT rules (`PREROUTING`, `POSTROUTING`, `VSERVER`) on ASUS (Asuswrt / Asuswrt-Merlin) routers over SSH.
 
@@ -81,7 +81,7 @@ Update-Script -Name AsusNatView
 
 ### Option 2: Manual Download
 
-Download `AsusNatView.ps1` from the [Releases](https://github.com/2civics/AsusNatView/releases) page and save it to your preferred scripts directory.
+Download `AsusNatView.ps1` from the [Releases](https://github.com/2civics/Asus-Nat-View/releases) page and save it to your preferred scripts directory.
 
 ## Configuration
 
