@@ -1,7 +1,7 @@
 # AsusNatView
 
 [![PowerShell Gallery](https://img.shields.io/powershellgallery/v/AsusNatView?label=PowerShell%20Gallery&color=0078D6&cacheSeconds=3600)](https://www.powershellgallery.com/packages/AsusNatView/1.0.0)
-[![GitHub Release](https://img.shields.io/github/v/release/2civics/AsusNatView?label=GitHub%20Release&color=2EA44F&cacheSeconds=3600)](https://github.com/2civics/AsusNatView/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/2civics/AsusNatView?label=GitHub%20Release&color=2EA44F&cacheSeconds=3600)](https://github.com/2civics/Asus-Nat-View/releases)
 [![PowerShell 5.1 | 7.x](https://img.shields.io/badge/PowerShell-5.1%20%7C%207.x-5391FE)](https://www.powershellgallery.com/packages/AsusNatView/1.0.0)
 [![Platform Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6)](https://github.com/2civics/AsusNatView)
 
