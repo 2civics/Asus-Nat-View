@@ -128,7 +128,7 @@ You can launch `AsusNatView.ps1` directly from your Desktop without leaving a Po
 
 ### Option 1: Use PowerShell Desktop Shortcut Creator (Recommended)
 
-For an easy point-and-click setup, download **[PowerShell Desktop Shortcut Creator](https://github.com/2civics/create_desktop_shortcut)** from GitHub (also available on the PowerShell Gallery via `Install-Script -Name create_desktop_shortcut`). It gives you a dark-mode GUI to browse for `AsusNatView.ps1`, enable windowless background execution, choose PowerShell 5.1 or 7.x, and pick a Windows system icon automatically.
+For an easy point-and-click setup, download **[PowerShell Desktop Shortcut Creator](https://github.com/2civics/PowerShell-Desktop-Shortcut-Creator)** from GitHub (also available on the PowerShell Gallery via `Install-Script -Name create_desktop_shortcut`). It gives you a dark-mode GUI to browse for `AsusNatView.ps1`, enable windowless background execution, choose PowerShell 5.1 or 7.x, and pick a Windows system icon automatically.
 
 ### Option 2: Create Manually in Windows
 
