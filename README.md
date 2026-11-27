@@ -9,6 +9,8 @@
 
 A lightweight, read-only Windows WPF GUI for inspecting live `iptables` NAT rules (`PREROUTING`, `POSTROUTING`, `VSERVER`) on ASUS (Asuswrt / Asuswrt-Merlin) routers over SSH.
 
+<img width="794" height="259" alt="Screenshot 2026-11-26 061523" src="https://github.com/user-attachments/assets/58d0fe82-83f6-4bef-8438-8b0ac4e113f0" />
+
 ## Features
 
 * **Read-Only Inspection:** Queries `iptables -t nat -L <CHAIN> -v -n -x` over SSH without modifying router firewall state.
